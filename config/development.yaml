@@ -1,0 +1,8 @@
+db:
+  host:
+  username: 'postgres'
+  password: 'postgres'
+  synchronize: true
+
+jwt:
+  secret: '' // jwt의 마지막 라인 시크릿 키 

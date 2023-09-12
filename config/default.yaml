@@ -1,0 +1,10 @@
+server: 
+  port: 3000
+
+db:
+  type: 'postgres'
+  port: 5432
+  database: '' // 데이터베이스 이름 넣기
+
+jwt:
+  expiresIn: 3600
